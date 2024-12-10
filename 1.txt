@@ -1,0 +1,17 @@
+patient_card_app/
+├── main.py             # Главный файл приложения, запуск UI
+├── auth.py             # Модуль для авторизации
+├── patient_manager.py  # Модуль для управления пациентами
+├── disease_manager.py # Модуль для управления видами болезней
+├── report_generator.py # Модуль для генерации отчетов
+├── data/
+│   ├── patients.json      # JSON файл с данными пациентов
+│   └── diseases.json     # JSON файл с данными о видах болезней
+├── ui/
+│   ├── main_window.py      # UI главного окна
+│   ├── add_patient.py     # UI окна добавления пациента
+│   ├── patient_list.py     # UI списка пациентов
+│   ├── disease_history.py # UI истории болезней пациента
+│   ├── add_disease.py    # UI окна добавления болезни
+│   └── edit_disease.py    # UI окна редактирования болезни
+└── utils.py            # Вспомогательные функции (работа с JSON, валидация и т.д.)

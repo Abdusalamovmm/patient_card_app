@@ -1,0 +1,89 @@
+[
+    {
+        "photo": "",
+        "name": "Иванов Иван Иванович",
+        "birth_date": "12.03.1985",
+        "phone": "+79123456789",
+        "address": "ул. Пушкина, д. 10, кв. 25",
+        "diseases": [
+            {
+                "disease_name": "Грипп",
+                "start_date": "20.03.2024",
+                "doctor_comment": "Высокая температура, кашель.",
+                "recovery_date": "27.03.2024"
+            },
+            {
+                "disease_name": "COVID-19",
+                "start_date": "15.01.2023",
+                "doctor_comment": "Легкая форма, самоизоляция.",
+                "recovery_date": "25.01.2023"
+            }
+        ]
+    },
+    {
+        "photo": "",
+        "name": "Петрова Анна Сергеевна",
+        "birth_date": "05.07.1992",
+        "phone": "+79987654321",
+        "address": "ул. Лермонтова, д. 5, кв. 12",
+        "diseases": [
+            {
+                "disease_name": "Ангина",
+                "start_date": "10.04.2024",
+                "doctor_comment": "Боль в горле, назначены антибиотики.",
+                "recovery_date": ""
+            },
+            {
+                "disease_name": "COVID-19",
+                "start_date": "21.12.2021",
+                "doctor_comment": "Нет антител",
+                "recovery_date": "11.01.2022"
+            }
+        ]
+    },
+    {
+        "photo": "C:/Users/abdus/Downloads/Ибра.jpg",
+        "name": "Ибрагим",
+        "birth_date": "10.12.2001",
+        "phone": "89997776644",
+        "address": "Комарова 47",
+        "diseases": [
+            {
+                "disease_name": "Стресс",
+                "start_date": "10.12.2024",
+                "doctor_comment": "Требуется покой",
+                "recovery_date": ""
+            }
+        ]
+    },
+    {
+        "photo": "C:/Users/abdus/Downloads/Абдулах.jpg",
+        "name": "Абдулах",
+        "birth_date": "11.01.2004",
+        "phone": "81236547788",
+        "address": "Петра первого 42",
+        "diseases": [
+            {
+                "disease_name": "Язва желудка",
+                "start_date": "10.09.2024",
+                "doctor_comment": "",
+                "recovery_date": ""
+            }
+        ]
+    },
+    {
+        "photo": "C:/Users/abdus/Downloads/Марат.jpg",
+        "name": "Марат",
+        "birth_date": "17.09.2003",
+        "phone": "85552221133",
+        "address": "Радужная 67",
+        "diseases": [
+            {
+                "disease_name": "Простуда",
+                "start_date": "03.12.2024",
+                "doctor_comment": "Подозрение на ангину",
+                "recovery_date": "10.12.2024"
+            }
+        ]
+    }
+]
